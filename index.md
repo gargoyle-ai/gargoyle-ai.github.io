@@ -6,8 +6,8 @@ Gargoyle is an open group focused on fighting COVID-19.
 
 # Get started
 We need you.
-* join us on telegram: https://t.me/gargoyleai
-* find me on twitter: @st_romanus
+* join us on (telegram)[https://t.me/gargoyleai]
+* find me on (twitter)[https://twitter.com/st_romanus]
 
 # Projects
 Every project needs your support.
@@ -19,16 +19,20 @@ Every project needs your support.
 Good pull requests are accepted.
 
 ## Mask
-Open source masks for reducing the spread of COVID-19.
-https://github.com/gargoyle-ai/mask
+(Open source masks)[https://github.com/gargoyle-ai/mask] for reducing the spread of COVID-19.
 
 ## Plumbing
-Open source hardware for medical equipment supporting those with COVID-19.
-https://github.com/gargoyle-ai/plumbing
+(Open source hardware)[https://github.com/gargoyle-ai/plumbing] for medical equipment supporting those with COVID-19.
 
 ## Alchemy
-Open source chemistry for fighting COVID-19.
-https://github.com/gargoyle-ai/alchemy
+(Open source chemistry)[https://github.com/gargoyle-ai/alchemy] for fighting COVID-19.
 
 # Resources
 Please donate directly to those who design, build, and test.
+
+## Design tools
+* (Onshape)[https://cad.onshape.com/signup]: free CAD
+
+## Supplies
+* (Digikey)[digikey.com]: good parts
+
