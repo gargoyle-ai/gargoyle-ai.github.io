@@ -1,7 +1,6 @@
 The year is 2020. Pandemic and financial chaos cover the globe.
-
+![alt text](https://avatars2.githubusercontent.com/u/62921814 "Gargoyle")
 Our elites and their lies have failed us, so we must work together to speak truth and build freedom.
-
 Gargoyle is an open group focused on fighting COVID-19.
 
 # Get started
